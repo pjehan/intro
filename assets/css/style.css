@@ -1,0 +1,7 @@
+.reveal section .experiences td {
+    vertical-align: middle;
+}
+
+.reveal section .experiences img {
+    max-height: 100px;
+}
